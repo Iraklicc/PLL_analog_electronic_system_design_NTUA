@@ -1,0 +1,14 @@
+LTspice 24.1.2 for Windows
+Circuit: C:\Users\hrast\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\HRAKLIS-ANTONIS\ΣΑΗΣ\Lab3\Draft1.net
+Start Time: Wed Apr  2 13:21:03 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.110 seconds.
+
+Files loaded:
+C:\Users\hrast\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\HRAKLIS-ANTONIS\ΣΑΗΣ\Lab3\Draft1.net
+

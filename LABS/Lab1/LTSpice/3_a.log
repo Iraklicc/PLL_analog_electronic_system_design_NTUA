@@ -1,0 +1,84 @@
+LTspice 24.1.2 for Windows
+Circuit: C:\Users\hrast\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\Help\3_a.net
+Start Time: Thu Feb 27 17:12:48 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.69432e-06
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 1.67787e-06
+vernier = 0.0104167
+vernier = 0.0138889
+Gmin = 1.63409e-06
+vernier = 0.0185185
+Gmin = 1.56754e-06
+vernier = 0.0246913
+vernier = 0.0329218
+Gmin = 1.46199e-06
+vernier = 0.0438957
+vernier = 0.0585276
+Gmin = 1.30848e-06
+vernier = 0.0780367
+Gmin = 1.09948e-06
+vernier = 0.104049
+vernier = 0.138732
+vernier = 0.0693659
+Gmin = 8.80354e-07
+vernier = 0.034683
+vernier = 0.0173415
+vernier = 0.023122
+Gmin = 8.51642e-07
+vernier = 0.0308293
+Gmin = 7.94763e-07
+vernier = 0.0411057
+vernier = 0.0548076
+Gmin = 7.07873e-07
+vernier = 0.0730768
+vernier = 0.0974357
+Gmin = 5.88918e-07
+vernier = 0.129914
+Gmin = 4.4153e-07
+vernier = 0.173219
+vernier = 0.230959
+Gmin = 2.73513e-07
+vernier = 0.307945
+vernier = 0.410593
+Gmin = 1.2885e-07
+vernier = 0.547457
+Gmin = 4.03726e-08
+vernier = 0.729942
+vernier = 0.973256
+Gmin = 6.17999e-09
+vernier = 1
+Gmin = 6.70727e-10
+Gmin = 7.20188e-11
+Gmin = 7.73296e-12
+Gmin = 8.3032e-13
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.942 seconds.
+
+Files loaded:
+C:\Users\hrast\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\Help\3_a.net
+C:\Users\hrast\LTspice\libs\LM324.lib
+

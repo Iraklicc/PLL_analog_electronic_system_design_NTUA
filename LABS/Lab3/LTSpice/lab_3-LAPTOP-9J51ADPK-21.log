@@ -1,0 +1,80 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\anton\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\Hraklis_Antonis\ΣΑΗΣ\Lab3\lab_3.net
+Start Time: Sun Mar  9 19:16:08 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node nc_01 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.25
+Gmin = 8.55108e-06
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 3.6295e-06
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 9.64496e-07
+vernier = 0.395061
+vernier = 0.197531
+vernier = 0.0987653
+vernier = 0.0493827
+vernier = 0.0246913
+vernier = 0.0123457
+vernier = 0.00617283
+vernier = 0.00308642
+vernier = 0.00154321
+Gmin = 9.64496e-07
+vernier = 0.000771604
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 28.0303%
+vernier = 0.0625
+Source Step = 27.2934%
+Source Step = 27.323%
+Source Step = 27.3526%
+Source Step = 27.3822%
+Source Step = 27.4118%
+vernier = 0.00146484
+Source Step = 27.4488%
+Source Step = 27.4932%
+Source Step = 27.5376%
+Source Step = 27.582%
+Source Step = 27.6264%
+vernier = 0.00219727
+Source Step = 27.6796%
+Source Step = 27.7462%
+Source Step = 27.8128%
+Source Step = 27.8794%
+Source Step = 27.946%
+vernier = 0.0032959
+Source Step = 28.0225%
+Source Step = 28.1224%
+Source Step = 28.2223%
+Source Step = 28.3222%
+Source Step = 28.422%
+vernier = 0.00494385
+Source Step = 28.5319%
+Source Step = 28.6817%
+Source Step = 28.8315%
+Source Step = 28.9813%
+Source Step = 29.1312%
+vernier = 0.00741577
+Source Step = 29.2885%
+Source Step = 29.5132%

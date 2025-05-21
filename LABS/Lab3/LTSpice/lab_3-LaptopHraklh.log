@@ -1,0 +1,170 @@
+LTspice 24.1.2 for Windows
+Circuit: C:\Users\hrast\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\HRAKLIS-ANTONIS\ΣΑΗΣ\Lab3\lab_3.net
+Start Time: Thu Mar  6 21:13:08 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node nc_01 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.666667
+Gmin = 4.99842e-06
+vernier = 0.888888
+Gmin = 8.09366e-07
+vernier = 0.444444
+vernier = 0.222222
+vernier = 0.111111
+vernier = 0.0555555
+vernier = 0.0277778
+vernier = 0.0138889
+vernier = 0.00694444
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.000868055
+Gmin = 9.89225e-07
+vernier = 0.000434028
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 28.0303%
+vernier = 0.0625
+Source Step = 27.2934%
+Source Step = 27.323%
+Source Step = 27.3526%
+Source Step = 27.3822%
+Source Step = 27.4118%
+vernier = 0.00146484
+Source Step = 27.4488%
+Source Step = 27.4932%
+Source Step = 27.5376%
+Source Step = 27.582%
+Source Step = 27.6264%
+vernier = 0.00219727
+Source Step = 27.6796%
+Source Step = 27.7462%
+Source Step = 27.8128%
+Source Step = 27.8794%
+Source Step = 27.946%
+vernier = 0.0032959
+Source Step = 28.0225%
+Source Step = 28.1224%
+Source Step = 28.2223%
+Source Step = 28.3222%
+Source Step = 28.422%
+vernier = 0.00494385
+Source Step = 28.5319%
+Source Step = 28.6817%
+Source Step = 28.8315%
+Source Step = 28.9813%
+Source Step = 29.1312%
+vernier = 0.00741577
+Source Step = 29.2885%
+Source Step = 29.5132%
+Source Step = 29.7379%
+Source Step = 29.9626%
+Source Step = 30.1873%
+Source Step = 30.4121%
+vernier = 0.0111237
+Source Step = 30.7491%
+Source Step = 31.0862%
+Source Step = 31.4233%
+Source Step = 31.7604%
+Source Step = 32.0975%
+vernier = 0.0166855
+Source Step = 32.5862%
+Source Step = 33.0919%
+Source Step = 33.5975%
+Source Step = 34.1031%
+Source Step = 34.6087%
+vernier = 0.0250282
+Source Step = 35.3166%
+Source Step = 36.075%
+Source Step = 36.8334%
+Source Step = 37.5919%
+Source Step = 38.3503%
+vernier = 0.0375423
+Source Step = 39.3742%
+Source Step = 40.5118%
+Source Step = 41.6495%
+Source Step = 42.7871%
+Source Step = 43.9248%
+vernier = 0.0563135
+Source Step = 45.4037%
+Source Step = 47.1102%
+Source Step = 48.8167%
+Source Step = 50.5231%
+Source Step = 52.2296%
+vernier = 0.0844703
+Source Step = 54.3627%
+Source Step = 56.9224%
+Source Step = 59.4821%
+Source Step = 62.0418%
+Source Step = 64.6015%
+vernier = 0.126705
+Source Step = 67.6732%
+Source Step = 71.5127%
+Source Step = 75.3523%
+Source Step = 79.1918%
+Source Step = 83.0314%
+vernier = 0.190058
+Source Step = 87.4469%
+Source Step = 90.3445%
+Source Step = 90.4345%
+Source Step = 90.5245%
+Source Step = 90.6145%
+Source Step = 90.7045%
+Source Step = 90.7945%
+vernier = 0.00445449
+Source Step = 90.898%
+Source Step = 91.033%
+Source Step = 91.1679%
+Source Step = 91.3029%
+Source Step = 91.4379%
+vernier = 0.00668173
+Source Step = 91.5864%
+Source Step = 91.7889%
+Source Step = 91.9914%
+Source Step = 92.1938%
+Source Step = 92.3963%
+vernier = 0.0100226
+Source Step = 92.6089%
+Source Step = 92.9126%
+Source Step = 93.2163%
+Source Step = 93.5201%
+Source Step = 93.8238%
+Source Step = 94.1275%
+vernier = 0.0150339
+Source Step = 94.5831%
+Source Step = 95.0386%
+Source Step = 95.4942%
+Source Step = 95.9498%
+Source Step = 96.4053%
+vernier = 0.0225508
+Source Step = 97.0659%
+Source Step = 97.7493%
+Source Step = 98.4326%
+Source Step = 99.116%
+Source Step = 99.7994%
+vernier = 0.0338263
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 2.023 seconds.
+
+Files loaded:
+C:\Users\hrast\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\HRAKLIS-ANTONIS\ΣΑΗΣ\Lab3\lab_3.net
+C:\Users\hrast\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\hrast\LTspice\libs\LM324.lib
+

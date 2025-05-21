@@ -1,0 +1,21 @@
+* C:\Users\hrast\OneDrive - Εθνικό Μετσόβιο Πολυτεχνείο\HRAKLIS-ANTONIS\ΣΑΗΣ\Lab3\lab_3.asc
+X§U2 N004 N001 Vcc 0 Utr LM324
+X§U1 N002 Utr Vcc 0 Usq LM324
+R4 N001 N003 56K tol=1 pwr=0.1
+R5 N004 N003 27K tol=1 pwr=0.1
+R6 N004 0 27k
+R7 N001 N005 27K
+C1 Utr N001 1n
+R2 Vcc N002 100K tol=1 pwr=0.1
+R1 N002 0 100K tol=1 pwr=0.1
+R3 Usq N002 100k
+V§Uctrl N003 0 6
+Vcc Vcc 0 5
+M2 N005 Usq 0 NC_01 NMOS
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\hrast\AppData\Local\LTspice\lib\cmp\standard.mos
+.tran 1m
+.include LM324.lib
+.backanno
+.end
